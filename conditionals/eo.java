@@ -8,6 +8,5 @@ public class eo {
             System.out.println(x+" is odd.");
         }
         System.out.println("Smart work is better than Hardwork");
-    }
-    
+    }   
 }
